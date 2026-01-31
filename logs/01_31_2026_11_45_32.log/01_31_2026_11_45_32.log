@@ -1,0 +1,5 @@
+[2026-01-31 11:46:04,248] 67 root- ERROR - Network connection failed. Please check:
+[2026-01-31 11:46:04,249] 68 root- ERROR - 1. Your IP address is whitelisted in MongoDB Atlas Network Access
+[2026-01-31 11:46:04,249] 69 root- ERROR - 2. Windows Firewall is not blocking the connection
+[2026-01-31 11:46:04,250] 70 root- ERROR - 3. Your internet connection is active
+[2026-01-31 11:46:04,250] 71 root- ERROR - Connection string used: mongodb+srv://manthanhanchate1703_db_user:2GdDAsAKVZPlmvEx@...
